@@ -1,0 +1,21 @@
+{
+  "name": "testir",
+  "version": "1.0.0",
+  "main": "fetchUsers.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "keywords": [],
+  "author": "Valery",
+  "license": "ISC",
+  "description": "test",
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "mocha": "^11.0.1",
+    "sinon": "^19.0.2"
+  },
+  "dependencies": {
+    "chai": "^5.1.2"
+  }
+}
